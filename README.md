@@ -25,7 +25,7 @@ Currently preparing for **software development roles** with a structured and dis
 ---
 
 ## 🧠 Core Expertise
-🟢 Artificial Intelligence 
+🟢 Artificial Intelligence
 🟢 Python Programming  
 🟢 Object-Oriented Programming  
 🟢 Data Structures & Algorithms  
